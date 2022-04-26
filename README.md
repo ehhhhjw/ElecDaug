@@ -1,8 +1,8 @@
-# ElecDaug: Electromagnetic Signal Data Augmentation Based on Metamorphic Relation
-ElecDaug: Electromagnetic Signal Data Augmentation Based on Metamorphic Relation
+# TauRiElM: Test Data Augmentation of Radio Electromagnetic by Metamorphic Relation
+TauRiElM: Test Data Augmentation of Radio Electromagnetic by Metamorphic Relation
 
 This file contains:
-  1.the back-end executable code of ElecDaug——————the_back-end
+  1.the back-end executable code of TauRiElM——————the_back-end
   2.a usable original data.——————original_data.json
   3.the tool operation flow image
   
