@@ -1,1 +1,6 @@
-
+The Original shows the original model training process.
+Radio noise metamorphic operator completes the process of simulating mechanical thermal noise and Gaussian white noise in the signal transmission process by injecting radio noise into the electromagnetic signal data.
+Signal outage metamorphic operator simulates the scenario of partial data missing due to transmission transient interruption during electromagnetic signal transmission.
+Signal disruption metamorphic operator simulates the signal delay during signal transmission by selecting a continuous segment of signal data and changing the data to the $I/Q$ average of this continuous data.
+Channel transformation metamorphic operator is mainly to simulate the time-domain interaction caused by the interference of adjacent electromagnetic signals in the timing sequence during signal propagation.
+Power zooming metamorphic operator takes into account the phenomenon of signal energy superposition due to reflection of the signal.
