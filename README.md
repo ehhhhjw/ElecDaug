@@ -1,8 +1,8 @@
-# TauRiElM: Test Data Augmentation of Radio Electromagnetic by Metamorphic Relation
-TauRiElM: Test Data Augmentation of Radio Electromagnetic by Metamorphic Relation
+# ElecDaug: Electromagnetic Data Augmentation for Model Repair based on Metamorphic Relation
+ElecDaug: Electromagnetic Data Augmentation for Model Repair based on Metamorphic Relation
 
 This file contains:
-  1.the back-end executable code of TauRiElM——————the_back-end
+  1.the back-end executable code of ElecDaug——————the_back-end
   
   2.a usable original data——————original_data.json
   
@@ -12,7 +12,7 @@ This file contains:
   
   5.The training folder is the training code of the model——————Training
   
-Our electromagnetic data prototyping tool: TauRiElM has been released to the Internet. And you can access it through this URL http://129.211.89.155:9010
+Our electromagnetic data prototyping tool: ElecDaug has been released to the Internet. And you can access it through this URL http://129.211.89.155:9010
 
 You should follow the flow image to perform the relevant steps.
 
